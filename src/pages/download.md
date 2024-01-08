@@ -6,15 +6,15 @@ title: Download
 
 MapProxy releases are available from the [PyPI project page of MapProxy](http://pypi.python.org/pypi/MapProxy). There is also [an archive of all official releases](https://pypi.python.org/packages/source/M/MapProxy/), unofficial releases and pre-releases [can be found here](https://mapproxy.org/static/rel/).
 
-However, downloading is often not necessary, because you can install MapProxy with the Python tools `easy_install` or `pip`. Read the [installation instructions](https://mapproxy.org/docs/latest/install.html) for more information.
+However, downloading is often not necessary, because you can install MapProxy with the Python tools `easy_install` or `pip`. Read the [installation instructions](https://mapproxy.github.io/docs/latest/install.html) for more information.
 
 ## Releases
 
-1.x is the current mainline of the development. All new features will be included in the next 1.x release (1.3.x, 1.4.x, etc.). We will make minor releases (e.g. 1.2.1) with small improvements and bugfixes as necessary.
+2.x is the current mainline of the development. All new features will be included in the next 2.x release (2.1.x, 2.2.x, etc.). We will make minor releases (e.g. 2.2.1) with small improvements and bugfixes as necessary.
 
 For changes between each release see the [CHANGES.txt of MapProxy](https://github.com/mapproxy/mapproxy/blob/master/CHANGES.txt).
 
-### 1.11.x
+### 2.0.x
 
 This is the current release. It is released under the [Apache Software License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
