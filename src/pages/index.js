@@ -3,8 +3,6 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import MDXContent from '@theme/MDXContent';
 
-import Translate from '@docusaurus/Translate';
-
 import styles from './index.module.css';
 
 import Startpage from './startpage.mdx'
@@ -17,9 +15,8 @@ function MapProxyIntro() {
           MapProxy
         </h1>
         <p className="hero__subtitle">
-          <Translate>
-            startpage-mapproxy-description
-          </Translate>
+          MapProxy is an open source proxy for geospatial data.<br/>
+          It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client.
         </p>
       </div>
     </header>
