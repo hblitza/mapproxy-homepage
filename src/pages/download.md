@@ -2,8 +2,6 @@
 title: Download
 ---
 
-# Download
-
 MapProxy releases are available from the [PyPI project page of MapProxy](http://pypi.python.org/pypi/MapProxy). There is also [an archive of all official releases](https://pypi.python.org/packages/source/M/MapProxy/), unofficial releases and pre-releases [can be found here](https://mapproxy.org/static/rel/).
 
 However, downloading is often not necessary, because you can install MapProxy with the Python tools `easy_install` or `pip`. Read the [installation instructions](https://mapproxy.github.io/docs/latest/install.html) for more information.
