@@ -52,7 +52,7 @@ const config = {
         },
         items: [
           {
-            to: 'https://hblitza.github.io/mapproxy',
+            to: 'https://mapproxy.github.io/mapproxy',
             position: 'left',
             label: 'Docs',
           },
