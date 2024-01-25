@@ -2,14 +2,11 @@
 title: Development
 ---
 
-# Development
-
 You want to improve MapProxy, found a bug and want to fix it? Great! This document points you to some helpful information.
 
 #### Source
 
-Releases are available from the [PyPI project page of MapProxy](http://pypi.python.org/pypi/MapProxy). There is also [an archive of all official releases](http://pypi.python.org/packages/source/M/MapProxy/
-      [mp-archive]: ), unofficial releases and pre-releases [can be found here](https://mapproxy.org/static/rel/).
+Releases are available from the [PyPI project page of MapProxy](http://pypi.python.org/pypi/MapProxy). There is also [an archive of all official releases](http://pypi.python.org/packages/source/M/MapProxy/), unofficial releases and pre-releases [can be found here](https://mapproxy.org/static/rel/).
 
 MapProxy uses [Git](http://git-scm.com/) as a source control management tool. If you are new to distributed SCMs or Git we recommend to read [Pro Git](http://git-scm.com/book).
 

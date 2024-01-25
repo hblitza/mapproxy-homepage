@@ -72,6 +72,11 @@ const config = {
             label: 'Support',
           },
           {
+            to: '/resources',
+            position: 'left',
+            label: 'Resources',
+          },
+          {
             href: 'https://github.com/mapproxy/mapproxy',
             label: 'GitHub',
             position: 'right',
